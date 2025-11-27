@@ -2,4 +2,4 @@
 # Victor Danilo Ocampo Torres, C.C. 1000131173, Bioingenieria.
 # Juan Pablo Martinez Martinez, C.C. 	1001003965, Bioingenieria.
 # Link video avances proyecto: https://youtu.be/qrKrrFu_6s8
-# Link Video proyecto final: https://youtu.be/DH8FsIckCA4
+# Link Video proyecto final: https://youtu.be/HOnriw-v_T8
